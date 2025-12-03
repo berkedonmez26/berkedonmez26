@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkedonmez26&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkedonmez26&layout=compact&theme=transparent" height="160" />
-</p>
-
----
 
 ### 🐍 Contribution snake
 
@@ -43,9 +35,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berkedonmez26/berkedonmez26/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berkedonmez26/berkedonmez26/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-### 📫 Contact
-
-- GitHub: [@berkedonmez26](https://github.com/berkedonmez26)
