@@ -8,9 +8,8 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 Working on: AI/SaaS projects and dashboards  
-- ⚙️ Tech I use a lot: `TypeScript` · `React` · `Next.js` · `Node.js` · `Python`  
-- 🧠 Into: automation, data, dev tooling, and nice design  
+ 
+- 🧠 Into: automation, data, dev tooling, and design  
 - 💬 Ask me about: web apps, LLM-powered tools, and UX details  
 
 ---
